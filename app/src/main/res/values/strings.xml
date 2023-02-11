@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Turistiando</string>
+
+    <string name="hotel">Hoteles</string>
+    <string name="restautante">Restaurantes</string>
+
+    <string name="creador">Acerca de</string>
+    <string name="ingles">Inglés</string>
+    <string name="español">Español</string>
+
+    <string name="nombre">Soy</string>
+    <string name="Nombre">BrightV</string>
+    <string name="Descripcción">Mi nombre es Vanessa Castro, tengo 20 años de edad y actualmente soy estudiante de Desarrollo de Software y Administración. Es mi pasión dar lo mejor de mí misma al mundo para hacer de él un lugar más ameno para todos a través de todo lo que hago".</string>
+    <string name="Contatos">Contactos</string>
+    <string name="email">Correo electrónico</string>
+    <string name="Email">vanecastroorlas@gmail.com</string>
+    <string name="Celular">Celular</string>
+    <string name="celular">+57 3245387512</string>
+
+    <string name="NombreHotel1">Hotel LA DIVINA PROVIDENCIA</string>
+    <string name="NombreHotel2">Hotel DIANA</string>
+    <string name="NombreHotel3">Hotel GUAYACANES</string>
+    <string name="NombreHotel4">Finca LA MARINA</string>
+
+    <string name="descripcionhotel1">A 2 kms del pueblo, encuentra cabañas para parejas, grupos y familias.  En medio de la naturaleza, con lago, caballerizas y otros atractivos que harán de tu estadía en Jardín un recuerdo inolvidable.</string>
+    <string name="descripcionhotel2">El Hotel Diana está a media cuadra del parque, en la vía que comunica el parque con el Teatro.  Es un hotel bueno, bonito y barato! Parqueadero gratuito para motocicletas de los huéspedes.</string>
+    <string name="descripcionhotel3">Un hotel familiar y acogedor muy bien ubicado.  Nos encontramos en la Calle del Medio, donde se está cerca del parque pero lejos del ruido.  Atendido por su propietaria!</string>
+    <string name="descripcionhotel4">Una hermosa finca cafetera, a 12 minutos del pueblo, con corredores, hamacas, kiosco y una linda familia que te recibirá como en tu casa!</string>
+
+    <string name="PrecioHotel1">1.500.000 COP</string>
+    <string name="PrecioHotel2">800.000 COP</string>
+    <string name="PrecioHotel3">590.000 COP</string>
+    <string name="PrecioHotel4">2.000.000 COP</string>
+
+
+    <string name="NombreRes1">OTRA COCINA</string>
+    <string name="NombreRes2">LAS MARGARITAS</string>
+    <string name="NombreRes3">MAMBRÚ</string>
+    <string name="NombreRes4">ÓLEO BISTRÓ</string>
+
+
+    <string name="desRestaurante1">Almuerzos - Menú del día - Carnes a la parrilla </string>
+    <string name="desRestaurante2">Un sitio agradable para disfrutar de una buena sazón y el mejor de los servicios.</string>
+    <string name="desRestaurante3">Café y restaurante.</string>
+    <string name="desRestaurante4">Restaurante de Comida Nacional e Internacional. Con un delicioso menú gourmet, completo bar con vinos y licores, ambiente acogedor, precios moderados y en la mejor ubicación.</string>
+
+    <string name="PrecioRes1">Dirección:  CRA 3 # 10-49 Diagonal Bomberos</string>
+    <string name="PrecioRes2">Dirección	Cra 3 # 9 - 68  Parque Principal</string>
+    <string name="PrecioRes3">Dirección:  Cra 5#10-47</string>
+    <string name="PrecioRes4">Dirección:  Cra 5 #11 - 48 Jardín, Antioquia. Dentro del Hotel Casa Passiflora</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Turistiando</string>
+
+
+    <string name="hotel">Hotels</string>
+    <string name="restautante">Restaurants</string>
+
+    <string name="creador">About me</string>
+    <string name="ingles">English</string>
+    <string name="español">Spanish</string>
+
+    <string name="nombre">Im</string>
+    <string name="Nombre">BrightV</string>
+    <string name="Descripcción">My name is Vanessa Castro, I am 20 years old and I am currently a Software Development and Administration student. It is my passion to give the best of myself to the world to make it a more enjoyable place for everyone through everything I do. </string>
+    <string name="Contatos">Contacts</string>
+    <string name="email">Email</string>
+    <string name="Email">vanecastroorlas@gmail.com</string>
+    <string name="Celular">Cell phone</string>
+    <string name="celular">+57 3245387512</string>
+
+    <string name="NombreHotel1">Hotel THE DIVINE PROVIDENCIA</string>
+    <string name="NombreHotel2">Hotel DIANA</string>
+    <string name="NombreHotel3">Hotel GUAYACANES</string>
+    <string name="NombreHotel4">Finca LA MARINA</string>
+
+
+    <string name="descripcionhotel1">2 km from the town, find cabins for couples, groups and families. In the middle of nature, with a lake, stables and other attractions that will make your stay in Jardín an unforgettable memory.</string>
+    <string name="descripcionhotel2">The Hotel Diana is half a block from the park, on the road that connects the park with the Theater. It is a good, nice and cheap hotel! Free parking for guests motorcycles.</string>
+    <string name="descripcionhotel3">A family friendly hotel very well located. We are located on Calle del Medio, where you are close to the park but away from the noise. Attended by its owner!</string>
+    <string name="descripcionhotel4">A beautiful coffee farm, 12 minutes from town, with corridors, hammocks, a kiosk and a nice family that will welcome you at home!</string>
+
+    <string name="PrecioHotel1">1.500.000 COP</string>
+    <string name="PrecioHotel2">800.000 COP</string>
+    <string name="PrecioHotel3">590.000 COP</string>
+    <string name="PrecioHotel4">2.000.000 COP</string>
+
+
+    <string name="NombreRes1">OTRA COCINA</string>
+    <string name="NombreRes2">LAS MARGARITAS</string>
+    <string name="NombreRes3">MAMBRÚ</string>
+    <string name="NombreRes4">ÓLEO BISTRÓ</string>
+
+
+    <string name="desRestaurante1">Lunches - Menu of the day - Grilled meats</string>
+    <string name="desRestaurante2">A pleasant place to enjoy good seasoning and the best of services.</string>
+    <string name="desRestaurante3">Coffe and restaurant</string>
+    <string name="desRestaurante4">National and International Food Restaurant. With a delicious gourmet menu, full bar with wines and spirits, cozy atmosphere, moderate prices and in the best location.</string>
+
+    <string name="PrecioRes1">Address: CRA 3 # 10-49 Diagonal Bomberos</string>
+    <string name="PrecioRes2">Address Cra 3 # 9 - 68 Main Park</string>
+    <string name="PrecioRes3">Address: Cra 5#10-47</string>
+    <string name="PrecioRes4">Address: Cra 5 #11 - 48 Jardin, Antioquia. Inside the Casa Passiflora Hotel</string>
+
+</resources>

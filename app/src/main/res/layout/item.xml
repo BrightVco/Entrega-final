@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondohyr"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageView
+        android:id="@+id/fotoHotel1"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        android:src="@drawable/hotel1"
+        app:layout_constraintBottom_toTopOf="@id/nombreHotel1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="25dp"
+       />
+
+    <TextView
+        android:id="@+id/nombreHotel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/fotoHotel1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/descipcionHotel1"
+        android:text="@string/NombreHotel1"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/descipcionHotel1"
+        android:layout_width="350dp"
+        android:layout_height="160dp"
+        android:text="@string/descripcionhotel1"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/precioHotel1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/nombreHotel1" />
+
+    <TextView
+        android:id="@+id/precioHotel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="#F3E45F"
+        android:fontFamily="serif-monospace"
+        android:text="@string/PrecioHotel1"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/descipcionHotel1" />
+
+
+</android.support.constraint.ConstraintLayout>
